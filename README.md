@@ -70,11 +70,3 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas – Estácio (Brasil)
 </div>
 
 ###
-
-## Meu gráfico de contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alyssonoliverr/alyssonoliverr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alyssonoliverr/alyssonoliverr/output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de contribuições do Pac-Man" src="https://raw.githubusercontent.com/alyssonoliverr/alyssonoliverr/output/pacman-contribution-graph.svg">
-</picture>

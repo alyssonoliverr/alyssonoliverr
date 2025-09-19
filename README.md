@@ -1,21 +1,24 @@
-# Fullstack & Cloud Explorer 🌐☁️ | Turning Ideas into Code 🚀
+<div align="center">
+  
+# Fullstack Developer | Cloud & DevOps Enthusiast
+  
+</div>
 
 ###
 
 <div align="center" style="margin-bottom:20px;">
   <p align="center">
-    I'm a passionate Fullstack Developer and Cloud Enthusiast, building scalable applications and improving processes with modern technologies.<br/>
-    Experienced with relational databases, cloud platforms, and DevOps practices.<br/>
-    Currently expanding my expertise in <b>cloud architecture, scalable systems, and CI/CD pipelines</b> using Azure, AWS, Docker, Kubernetes, and Cloudflare.<br/>
-    I enjoy solving complex problems and continuously learning to deliver high-quality solutions.
+    Fullstack Developer passionate about building scalable applications and cloud solutions.<br/>
+    Strong SQL knowledge and experience with relational databases.<br/>
+    Currently focused on cloud architecture, CI/CD pipelines, and scalable systems with Azure, AWS, Docker, Kubernetes, and Cloudflare.
   </p>
 </div>
 
 ###
 
 <div align="center">
-<h2 align="center">Education 🎓</h2>
-Technologist in Analysis and Systems Development (ADS) – Estácio, Brazil
+<h2 align="center">Education</h2>
+Technologist in Analysis and Systems Development – Estácio (Brazil)
 </div>
 
 ###
@@ -23,56 +26,25 @@ Technologist in Analysis and Systems Development (ADS) – Estácio, Brazil
 <h2 align="center">Tech Stack & Tools</h2>
 
 <div align="center">
-  <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-</div>
-
-<div align="center" style="margin:10px 0;"> 
-  <img src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white" height="40" alt="delphi logo" />
-</div>
-
-<!-- DevOps & CI/CD -->
-<div align="center" style="margin:10px 0;">
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="github actions logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="terraform logo" />
+  <h3>Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,ts,js,react,nextjs,dotnet" height="60" />
+  
+  <div style="margin:10px 0;"> 
+    <img src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white" height="40" alt="delphi logo" />
+  </div>
 </div>
 
 <div align="center">
-  <!-- Banco de Dados -->
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo" />
+  <h3>Databases</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="60" />
+</div>
 
-  <!-- Cloud & Infra -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="40" alt="cloudflare logo" />
+<div align="center">
+  <h3>Cloud & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,kubernetes,terraform,azure,aws" height="60" />
+  <div style="margin:10px 0;"> 
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="40" alt="cloudflare logo" />
+  </div>
 </div>
 
 ###
@@ -82,6 +54,9 @@ Technologist in Analysis and Systems Development (ADS) – Estácio, Brazil
 <div align="center">
   <a href="https://www.linkedin.com/in/alysson-oliveira-286932271/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://github.com/alyssonoliverr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
 </div>
 
@@ -101,4 +76,3 @@ Technologist in Analysis and Systems Development (ADS) – Estácio, Brazil
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alyssonoliverr/alyssonoliverr/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alyssonoliverr/alyssonoliverr/output/pacman-contribution-graph.svg">
 </picture>
-

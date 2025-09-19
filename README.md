@@ -1,23 +1,23 @@
 <div align="center">
   
-# Desenvolvedor Fullstack | Entusiasta de Cloud & DevOps
-  
+# Desenvolvedor Fullstack | Cloud & DevOps
+
 </div>
 
 ###
 
 <div align="center" style="margin-bottom:20px;">
   <p align="center">
-    Desenvolvedor Fullstack apaixonado por construir aplicações escaláveis e soluções em nuvem.<br/>
+    Desenvolvedor Fullstack apaixonado por criar aplicações escaláveis e soluções em nuvem.<br/>
     Forte conhecimento em SQL e experiência com bancos de dados relacionais.<br/>
-    Atualmente focado em arquitetura de nuvem, pipelines CI/CD e sistemas escaláveis usando Azure, AWS, Docker, Kubernetes e Cloudflare.
+    Focado atualmente em arquitetura de nuvem, pipelines CI/CD e sistemas escaláveis usando Azure, AWS, Docker, Kubernetes e Cloudflare.
   </p>
 </div>
 
 ###
 
 <div align="center">
-<h2 align="center">Educação</h2>
+<h2 align="center">Formação</h2>
 Tecnólogo em Análise e Desenvolvimento de Sistemas – Estácio (Brasil)
 </div>
 
@@ -49,7 +49,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas – Estácio (Brasil)
 
 ###
 
-<h2 align="center">Conecte-se comigo</h2>
+<h2 align="center">Redes & Contato</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alysson-oliveira-286932271/" target="_blank">
@@ -62,16 +62,16 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas – Estácio (Brasil)
 
 ###
 
-<h2 align="center">Conquistas & Estatísticas</h2>
+<h2 align="center">Destaques & Métricas</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alyssonoliverr&locale=pt&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150">
-  <img src="https://github-profile-trophy.vercel.app?username=alyssonoliverr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=alyssonoliverr&locale=pt&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app?username=alyssonoliverr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="gráfico trophies" />
 </div>
 
 ###
 
-<h2 align="center">Meu gráfico de contribuições</h2>
+<h2 align="center">Atividade no GitHub</h2>
 
 <p align="center">
   <picture>

@@ -65,8 +65,8 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas – Estácio (Brasil)
 <h2 align="center">Conquistas & Estatísticas</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alyssonoliverr&locale=pt&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="gráfico streak" />
-  <img src="https://github-profile-trophy.vercel.app?username=alyssonoliverr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="gráfico trophies" />
+  <img src="https://streak-stats.demolab.com?user=alyssonoliverr&locale=pt&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150">
+  <img src="https://github-profile-trophy.vercel.app?username=alyssonoliverr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150"/>
 </div>
 
 ###

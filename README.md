@@ -41,7 +41,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas – Estácio (Brasil)
 
 <div align="center">
   <h3>Cloud & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,kubernetes,terraform,azure,aws" height="60" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,kubernetes,azure,aws" height="60" />
   <div style="margin:10px 0;"> 
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="40" alt="logo cloudflare" />
   </div>
